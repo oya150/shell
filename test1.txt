@@ -8,3 +8,6 @@ drwxr-xr-x  15 oya  staff    480 12 21 01:12 .git
 -rwxr-xr-x   1 oya  staff    392 12 20 23:35 shellCommand.txt
 -r-xr-xr-x   1 oya  staff     44 12 21 00:25 shellGrammar.rc
 -rw-r--r--@  1 oya  staff      0 12 21 01:13 test
+iiiid
+dfdfd
+fdfdf```

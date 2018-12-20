@@ -1,6 +1,6 @@
-## 생성
+## Create
 
-#파일생성
+#create file
 touch [filename]
 -A  -- adjust time stamps by relative value
 -a  -- change access time (atime)
@@ -10,15 +10,31 @@ touch [filename]
 -r  -- use corresponding times from specified reference file
 -t  -- use specified time
 
-
-
-
-
-#디렉토리 생성
+#create dir
 mkdir [directoryname]
 
-
+#modify
+cp
+mv
+chmod 755 filename  
+-> 755(user,group,others)  rwx(2^2|2^1|2^0)
+-> 655=rw-|r-x|r-x
+#move
+cd ..
+cd ~
+cd -
+cd ...(zsh)
 
 
 ls -al
 
+#process info
+ps 
+
+ssh IP address
+
+#print file
+cat
+
+ls -al | cat > log.txt
+cat test README.md > test1.txt
