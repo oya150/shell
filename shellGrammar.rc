@@ -1,0 +1,2 @@
+testString = "test"
+echo ${testString}

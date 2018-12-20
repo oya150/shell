@@ -1,2 +1,24 @@
+## 생성
+
+#파일생성
+touch [filename]
+-A  -- adjust time stamps by relative value
+-a  -- change access time (atime)
+-c  -- don't create file if it doesn't exist
+-h  -- act on symbolic links themselves
+-m  -- change modification time (mtime)
+-r  -- use corresponding times from specified reference file
+-t  -- use specified time
+
+
+
+
+
+#디렉토리 생성
+mkdir [directoryname]
+
+
+
+
 ls -al
 
