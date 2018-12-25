@@ -33,8 +33,52 @@ ps
 
 ssh IP address
 
-#print file
-cat
+### cat ###
+
+#print file or copy file to another file
+cat test1.txt > test2.txt   -> copy contents of test1.txt to test2.txt
+cat *.txt > test3.txt	    -> copy contents of all of txt to test3.txt
+cat test1.txt >> test2.txt  -> add contents of test1.txt to test2.txt
+
+#show number
+cat -b test1.txt
 
 ls -al | cat > log.txt
 cat test README.md > test1.txt
+
+#combine files and sort and copy
+cat file1 file2 file3 | sort > file4
+
+### tail ###
+
+to monitor log file
+
+#show last 10 rows
+tail log.txt
+
+#show last 20 rows
+tail -n 20 log.txt
+
+#show last 300byte
+tail -c 200 log.tx
+
+
+### grep ###
+
+grep [option] [pattern] file
+
+#search words(starting 'h') and show rows with number from grep.txt
+grep -b '^h' grep.txt
+
+#search words(ending 'h') and show only rows number from grep.txt
+grep -c 'h$' grep.txt
+
+#search words(not sensitive lowerCase, upperCase) and show rows from grep.txt
+grep -i 'comm' grep.txt
+
+#search words(not include pattern) and show rows from grep.txt
+grep -v 'comm' grep.txt
+
+
+
+

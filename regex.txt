@@ -1,0 +1,19 @@
+#test 를 찾는다.
+egrep 'test' test.txt
+
+#제일 앞자리가 T 또는 t 일 경우 둘다 찾는다.
+egrep '[Ttest]' test.txt
+
+#단어 앞뒤로 블록과 같이 끝나거나 각종 문자가 위치했을 경우 포함 하여 검색
+예) .test. -test; 'test' ,test, ?test/ [test] \test\ {test} =test+ ~test`
+egrep '\btes\b' test.txt
+
+#te 뒤에 문자가 0번이상 나오는 경우 검색
+egrep 'te*' test.txt
+
+
+egrep '^[Tt]est' test.txt
+
+
+
+
