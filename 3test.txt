@@ -1,22 +1,0 @@
-iiiid
-dfdfd
-fdfdf```
-iiiid
-dfdfd
-fdfdf```
-[?2004h[?1049h[?1h=[?2004h[1;25r[?12h[?12l[27m[29m[m[H[2J[?25l[25;1H"wetet" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [1;1H[?25h[?25l[m[25;1H[1mrecording @z[m[25;14H[K[1;1H[?25h[?25l[25;1H[1m--c INSERT --[m [1mrecording @z[1;1H[?25h[?25l[25;1Hrecording @zr[m[25;13H[K[1;1H[?25h[?25l[25;1H[K[25;1H:[?2004h[?25hq[?25l[?2004l[25;1H[K[25;1H[?2004l[?1l>[?25h[?1049l[?2004h[?1049h[?1h=[?2004h[1;25r[?12h[?12l[27m[29m[m[H[2J[?25l[25;1H"test" 10L, 516C[1;1Htotal 72
-drwxr-xr-x   9 oya  staff    288 12 21 01:12 .
-drwxr-xr-x   3 oya  staff     96 12 19 23:39 ..
-drwxr-xr-x  15 oya  staff    480 12 21 01:12 .git
--rw-r--r--   1 oya  staff  12288 12 21 01:11 .shellCommand.txt.swo
--rw-r--r--   1 oya  staff  12288 12 20 23:35 .shellCommand.txt.swp
--rw-r--r--   1 oya  staff     21 12 21 01:12 README.md
--rwxr-xr-x   1 oya  staff    392 12 20 23:35 shellCommand.txt
--r-xr-xr-x   1 oya  staff     44 12 21 00:25 shellGrammar.rc
--rw-r--r--@  1 oya  staff      0 12 21 01:13 test
-[94m~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [1;1H[?25h
-
-
-
-
-[?25l[m[25;1H[1mrecording @q[m[25;13H[K[6;1H[?25h[?25l[25;1H[K[6;1H[?25h[?25l[25;1H:[?2004h[?25hq[?25l[?2004l[25;1H[K[25;1H[?2004l[?1l>[?25h[?1049l
